@@ -1,0 +1,5 @@
+=== ENREGISTREUR DE FRAPPES (dans cette fenêtre uniquement) ===
+Session démarrée : 2025-08-24 14:05:56
+⚠️ Les touches sont enregistrées UNIQUEMENT dans cette fenêtre, avec consentement.
+===============================================================
+
