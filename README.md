@@ -27,7 +27,7 @@ Tkinter library (install on Ubuntu with:sudo apt install python3-tk
 
 🚀 How to Run
 
-Clone this repository:git clone https://github.com/your-username/keylogger-project.git
+
 cd keylogger-project
 (Optional) Create a virtual environment:
 
@@ -38,7 +38,7 @@ Run the program:
 python3 key_event_logger.py
 
 
-Type in the Tkinter window — all pressed keys will be logged.
+"Type in the Tkinter window — all pressed keys will be logged."
 
-Press ESC to stop the logger and exit the program.
+"Press ESC to stop the logger and exit the program."
 
