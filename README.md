@@ -5,8 +5,9 @@ This project is a basic keylogger developed in Python for educational purposes o
 The program records and logs keystrokes pressed within a simple Tkinter window and saves them into a log file.
 
 ⚠️ Ethical Note:
-This project is strictly intended for learning and demonstration purposes.
+This project is strictly intended for learning and demonstration purposes. 
 Keyloggers can be misused in unethical or illegal ways — please ensure that you run this project only in a controlled and authorized environment.
+
 ✨ Features
 
 Capture keystrokes in real-time
@@ -23,6 +24,7 @@ Python 3.x
 
 Tkinter library (install on Ubuntu with:sudo apt install python3-tk
 ```)
+
 🚀 How to Run
 
 Clone this repository:git clone https://github.com/your-username/keylogger-project.git
