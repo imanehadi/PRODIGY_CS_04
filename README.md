@@ -38,7 +38,6 @@ Run the program:
 python3 key_event_logger.py
 
 
-"Type in the Tkinter window — all pressed keys will be logged."
-
-"Press ESC to stop the logger and exit the program."
+(Type in the Tkinter window — all pressed keys will be logged.)
+(Press ESC to stop the logger and exit the program.)
 
